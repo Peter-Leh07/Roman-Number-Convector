@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
+#output{
+    color: chartreuse;
+    font-size: 3vw;
+}
